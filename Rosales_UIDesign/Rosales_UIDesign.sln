@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rosales_UIDesign", "Rosales_UIDesign\Rosales_UIDesign.csproj", "{693BC304-814A-4D2D-883F-ACB3B192F6F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693BC304-814A-4D2D-883F-ACB3B192F6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693BC304-814A-4D2D-883F-ACB3B192F6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693BC304-814A-4D2D-883F-ACB3B192F6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693BC304-814A-4D2D-883F-ACB3B192F6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8775483-D239-4A80-B8FB-7C9A49ED880E}
+	EndGlobalSection
+EndGlobal

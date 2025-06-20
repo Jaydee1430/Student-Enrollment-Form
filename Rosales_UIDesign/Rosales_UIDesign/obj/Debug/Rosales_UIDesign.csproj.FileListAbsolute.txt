@@ -1,0 +1,57 @@
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe.config
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.pdb
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.Form1.resources
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.Properties.Resources.resources
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.exe
+C:\Users\Student\source\repos\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.pdb
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe.config
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.pdb
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.FrmEnrollment.resources
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.Properties.Resources.resources
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.GenerateResource.cache
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.exe
+C:\Users\Student\Documents\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.pdb
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe.config
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.pdb
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.AssemblyReference.cache
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.FrmEnrollment.resources
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.frmLogin.resources
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.MDIParentForm.resources
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.Properties.Resources.resources
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.GenerateResource.cache
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.CoreCompileInputs.cache
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.exe
+D:\rosales\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.pdb
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe.config
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.pdb
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.AssemblyReference.cache
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.FrmEnrollment.resources
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.frmLogin.resources
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.MDIParentForm.resources
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.Properties.Resources.resources
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.GenerateResource.cache
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.CoreCompileInputs.cache
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.exe
+C:\Users\rs_ca\Downloads\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.pdb
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe.config
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.exe
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\bin\Debug\Rosales_UIDesign.pdb
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.AssemblyReference.cache
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.FrmEnrollment.resources
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.frmLogin.resources
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.MDIParentForm.resources
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.Properties.Resources.resources
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.GenerateResource.cache
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.csproj.CoreCompileInputs.cache
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.exe
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.pdb
+C:\Users\rs_ca\Downloads\08ProjectTask3 (1)\02Project1(3)\02Project1\Rosales_UIDesign\Rosales_UIDesign\obj\Debug\Rosales_UIDesign.FrmStudentView.resources
